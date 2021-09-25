@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sathisha94
+- 👋 Hi, I’m @sathisha .C
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Automation Tesing
 - 💞️ I’m looking to collaborate on other Git
